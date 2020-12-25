@@ -22,6 +22,4 @@ Data Architecture Analyst at <a target="_blank" href="https://www.tecagro.com/" 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@vncs2012](https://www.linkedin.com/in/vncs/);
 
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vncs2012&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vncs2012&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vncs2012&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vncs2012&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
