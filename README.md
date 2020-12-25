@@ -2,7 +2,7 @@
 <hr>
 
 <p><em>software engineer graduated at <a target="_blank" href="http://www.unirv.edu.br/">UNIRV </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>
-Data Architecture Analyst at <a target="_blank" href="https://www.tecagro.com/" >Grupo TecAgro </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Data Architecture Analyst at <a target="_blank" href="https://www.tecagro.com/" >TecAgro Group </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.linkedin.com/in/vncs/">
