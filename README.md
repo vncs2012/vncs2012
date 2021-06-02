@@ -2,15 +2,15 @@
 <hr>
 
 <p><em>software engineer graduated at <a target="_blank" href="http://www.unirv.edu.br/">UNIRV </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>
-Data Architecture Analyst at <a target="_blank" href="https://www.tecagro.com/" >TecAgro Group </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Looking for new Opportunity<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.linkedin.com/in/vncs/">
-  <img align="left" alt="Beatriz's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Vncs LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.instagram.com/vini_cmiranda/">
-  <img align="left" alt="Vncs's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Vncs Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vncs2012.vncs2012)
