@@ -2,7 +2,7 @@
 <hr>
 
 <p><em>software engineer graduated at <a target="_blank" href="http://www.unirv.edu.br/">UNIRV </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>
-Working at the company <a target="_blank" href="https://g4f.com.br">G4F</a>, staying at <a target="_blank" href="https://www.agrodefesa.go.gov.br">AGRODEFESA</a> (Defence Agropecuária de Goiás)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Working at the company <a target="_blank" href="https://g4f.com.br">G4F</a>, staying at <a target="_blank" href="https://www.agrodefesa.go.gov.br">AGRODEFESA</a> (Agricultural Defense of Goiás Brazil)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.linkedin.com/in/vncs/">
