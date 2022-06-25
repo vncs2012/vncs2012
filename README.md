@@ -2,7 +2,7 @@
 <hr>
 
 <p><em>software engineer graduated at <a target="_blank" href="http://www.unirv.edu.br/">UNIRV </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>
-Looking for new Opportunity<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Working at the company <a target="_blank" href="https://g4f.com.br">G4F</a>, staying at <a target="_blank" href="https://www.agrodefesa.go.gov.br">AGRODEFESA</a> (Defence Agropecuária de Goiás)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.linkedin.com/in/vncs/">
@@ -17,8 +17,8 @@ Looking for new Opportunity<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 **About me:**
 
-- 💻 I am currently working with the integration of the company's erp with legacy systems using python;
-- 📚 I’m currently learning Typescript, NodeJS and Microservices; 
+- 💻 Currently I'm working with animal and plant defense control system using PHP, and some fees using python;
+- 📚 I’m currently learning Typescript, NodeJS, Python and Microservices; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@vncs2012](https://www.linkedin.com/in/vncs/);
 
