@@ -22,7 +22,7 @@ Working at <a target="_blank" href="https://www.agrodefesa.go.gov.br">AGRODEFESA
 </a>&nbsp;&nbsp;
 
 <a href="https://viniciusmiranda.dev/">
-  <img align="left" alt="Vncs Website" width="22px" src="data:image/svg+xml;charset=utf-8,%3csvg role='img' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3ehtmx%3c/title%3e%3cpath d='M0 13.01v-2l7.09-2.98.58 1.94-5.1 2.05 5.16 2.05-.63 1.9Zm16.37 1.03 5.18-2-5.16-2.09.65-1.88L24 10.95v2.12L17 16zm-2.85-9.98H16l-5.47 15.88H8.05Z'/%3e%3c/svg%3e" />
+  <img align="left" alt="Vncs Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/link.svg" />
 </a>
 
 
@@ -56,7 +56,7 @@ Trabalhando na <a target="_blank" href="https://www.agrodefesa.go.gov.br">AGRODE
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://viniciusmiranda.dev/">
-  <img align="left" alt="Vncs Website" width="22px" src="data:image/svg+xml;charset=utf-8,%3csvg role='img' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3ehtmx%3c/title%3e%3cpath d='M0 13.01v-2l7.09-2.98.58 1.94-5.1 2.05 5.16 2.05-.63 1.9Zm16.37 1.03 5.18-2-5.16-2.09.65-1.88L24 10.95v2.12L17 16zm-2.85-9.98H16l-5.47 15.88H8.05Z'/%3e%3c/svg%3e" />
+  <img align="left" alt="Vncs Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/link.svg" />
 </a>
 
 
