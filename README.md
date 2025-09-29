@@ -64,7 +64,7 @@ Trabalhando na <a target="_blank" href="https://www.agrodefesa.go.gov.br">AGRODE
 
 **Sobre mim:**
 
-- 💻 Atualmente trabalho com sistema de controle de defesa de animais e plantas usando PHP, e alguns microsserviços usando Python;
+- 💻 Atualmente trabalho com sistema de controle de defesa de animais e Vegetal usando PHP, e alguns microsserviços usando Python;
 - 💬 Pergunte-me sobre qualquer coisa, eu fico feliz em ajudar;
 - � Como me contatar: [@vncs2012](https://www.linkedin.com/in/vncs/);
 
