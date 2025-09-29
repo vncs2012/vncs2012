@@ -9,7 +9,7 @@ Working at the company <a target="_blank" href="https://g4f.com.br">G4F</a>, sta
   <img align="left" alt="Vncs LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/vini_cmiranda/">
+<a href="https://www.instagram.com/viniciusmiranda.dev/">
   <img align="left" alt="Vncs Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
