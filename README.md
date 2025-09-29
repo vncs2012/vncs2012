@@ -22,7 +22,7 @@ Working at <a target="_blank" href="https://www.agrodefesa.go.gov.br">AGRODEFESA
 </a>&nbsp;&nbsp;
 
 <a href="https://viniciusmiranda.dev/">
-  <img align="left" alt="Vncs Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/link.svg" />
+  <img align="left" alt="Vncs Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/salesforce.svg" />
 </a>
 
 
@@ -56,7 +56,7 @@ Trabalhando na <a target="_blank" href="https://www.agrodefesa.go.gov.br">AGRODE
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://viniciusmiranda.dev/">
-  <img align="left" alt="Vncs Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/link.svg" />
+  <img align="left" alt="Vncs Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/salesforce.svg" />
 </a>
 
 
